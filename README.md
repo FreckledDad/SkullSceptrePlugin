@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Skull Sceptre Plugin
+Used to see charges on sceptre.
